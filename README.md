@@ -8,7 +8,7 @@ A journey through diverse web development projects, all crafted during the "100 
 |-----|--------------------------------------------|-------------|----------------------|---------------------------|
 | 1   | Random Meal Generator                      | [Code](random-meal-generator) | [Demo](https://codepen.io/Ashworth836/pen/RwvoRyR)         | August 1, 2023            |
 | 2   | Mood Calendar                              | [Code](mood-calendar) | [Demo](https://codepen.io/Ashworth836/pen/dyaOpoO)         | August 2, 2023            |
-| 3   | Double Noise Flow Field                    | [Code](link) | [Demo](link)         | August 3, 2023            |
+| 3   | Double Noise Flow Field                    | [Code](double-noise-flow-field) | [Demo](https://codepen.io/Ashworth836/pen/KKJNgyL)         | August 3, 2023            |
 | 4   | Catch the Insect                           | [Code](link) | [Demo](link)         | August 4, 2023            |
 | 5   | User Profile Design                        | [Code](link) | [Demo](link)         | August 5, 2023            |
 | 6   | Pokedex                                    | [Code](link) | [Demo](link)         | August 6, 2023            |

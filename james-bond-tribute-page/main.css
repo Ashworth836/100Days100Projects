@@ -1,0 +1,189 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Actor', sans-serif;
+    background-color: #eee;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto 50px;
+}
+
+.row {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.col {
+    position: relative;
+    width: 500px;
+    min-height: 500px;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    background-color: #fefefe;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.row.md .col{
+    min-height: 250px;
+}
+.row.sm .col{
+    min-height: 200px;
+}
+
+.row .col.dark-side{
+    color: #fefefe;
+    background-color: #c0c0c0;
+}
+
+.col:first-of-type {
+    text-align: right;
+    background-position: top left;
+}
+
+.col:last-of-type {
+    background-position: top right;
+}
+
+.heading {
+    position: absolute;
+    top: 50px;
+    margin: 0;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+
+.hidden-lg {
+    display: none;
+}
+
+.subheading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 35px;
+}
+
+.row.md .subheading{
+    top: 70%;
+}
+
+.name {
+    font-family: 'Cormorant Garamond', serif;
+    position: absolute;
+    bottom: 10px;
+    margin: 0;
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+.col:first-of-type .name,
+.col:first-of-type .heading {
+    right: 10px;
+}
+
+.col:last-of-type .name,
+.col:last-of-type .heading {
+    left: 10px;
+}
+
+.number {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.2;
+    z-index: 0;
+}
+
+.movies {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    list-style-type: none;
+    text-transform: uppercase;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    z-index: 1;
+}
+
+.movies li {
+    margin: 10px 0;
+}
+
+@media screen and (max-width: 1000px){
+    .hidden-lg {
+        display: inline;
+    }
+    .hidden-sm {
+        display: none;
+    }
+    .col {
+        order: 2;
+        min-height: auto;
+    }
+    .col.dark-side {
+        order: 1;
+        min-height: 300px;
+    }
+    .heading {
+        font-size: 40px;
+        text-align: center;
+        right: 0 !important;
+        top: 20px;
+        width: 100%;
+    }
+    .subheading {
+        width: 100%;
+        font-size: 25px;
+        text-align: center;
+    }
+    .number {
+        font-size: 200px;
+    }
+    .name {
+        width: 100%;
+        line-height: 1;
+        text-align: center;
+        left: 50% !important;
+        right: auto !important;
+        transform: translateX(-50%);
+    }
+    .movies {
+        text-align: center;
+    }
+    .row.md .col {
+        min-height: 100px;
+    }
+    .row.sm .col {
+        padding: 20px;
+        min-height: auto;
+    }
+}
+
+@media screen and (max-width: 500px) {
+	.row, .col {
+		width: 100%;
+	}
+}

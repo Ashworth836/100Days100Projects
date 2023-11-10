@@ -10,7 +10,7 @@ A journey through diverse web development projects, all crafted during the "100 
 | 2   | Mood Calendar                              | [Code](mood-calendar) | [Demo](https://codepen.io/Ashworth836/pen/dyaOpoO)         | August 2, 2023            |
 | 3   | Double Noise Flow Field                    | [Code](double-noise-flow-field) | [Demo](https://codepen.io/Ashworth836/pen/KKJNgyL)         | August 3, 2023            |
 | 4   | Catch the Insect                           | [Code](catch-the-insect) | [Demo](https://codepen.io/Ashworth836/pen/abXBmEZ)         | August 4, 2023            |
-| 5   | User Profile Design                        | [Code](link) | [Demo](link)         | August 5, 2023            |
+| 5   | User Profile Design                        | [Code](user-profile-design) | [Demo](https://codepen.io/Ashworth836/pen/oNmYzEw)         | August 5, 2023            |
 | 6   | Pokedex                                    | [Code](link) | [Demo](link)         | August 6, 2023            |
 | 7   | James Bond Tribute Page                    | [Code](link) | [Demo](link)         | August 7, 2023            |
 | 8   | Live Twitter Feed                          | [Code](link) | [Demo](link)         | August 8, 2023            |

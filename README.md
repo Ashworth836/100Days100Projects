@@ -6,7 +6,7 @@ A journey through diverse web development projects, all crafted during the "100 
 
 | Day | Project                                    | Source Code | Live Demo (CodePen) | Date                      |
 |-----|--------------------------------------------|-------------|----------------------|---------------------------|
-| 1   | Random Meal Generator                      | [Code](link) | [Demo](link)         | August 1, 2023            |
+| 1   | Random Meal Generator                      | [Code](random-meal-generator) | [Demo](https://codepen.io/Ashworth836/pen/RwvoRyR)         | August 1, 2023            |
 | 2   | Mood Calendar                              | [Code](link) | [Demo](link)         | August 2, 2023            |
 | 3   | Double Noise Flow Field                    | [Code](link) | [Demo](link)         | August 3, 2023            |
 | 4   | Catch the Insect                           | [Code](link) | [Demo](link)         | August 4, 2023            |

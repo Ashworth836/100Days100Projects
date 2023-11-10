@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catch The Insect</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mulish&family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="screen">
+        <h1>Catch The Insect</h1>
+        <button id="start_btn" class="btn">Play Game</button>
+    </div>
+    <div class="screen">
+        <h1>What is your "favorite" insect?</h1>
+        <ul class="insects_list">
+            <li>
+                <button class="choose_insect_btn">
+                    <p>Ladybug</p>
+                    <img src="http://pngimg.com/uploads/ladybug/ladybug_PNG3970.png" alt="ladybug">
+                </button>
+            </li>
+            <li>
+                <button class="choose_insect_btn">
+                    <p>Spider</p>
+                    <img
+                         src="http://pngimg.com/uploads/spider/spider_PNG12.png"
+                         alt="spider"
+                         />
+                </button>
+            </li>
+            <li>
+                <button class="choose_insect_btn">
+                    <p>Butterfly</p>
+                    <img
+                         src="http://pngimg.com/uploads/butterfly/butterfly_PNG1018.png"
+                         alt="butterfly"
+                         />
+                </button>
+            </li>
+            <li>
+                <button class="choose_insect_btn">
+                    <p>Bee</p>
+                    <img
+                         src="http://pngimg.com/uploads/bee/bee_PNG74696.png"
+                         alt="bee"
+                         />
+                </button>
+            </li>
+            <li>
+                <button class="choose_insect_btn">
+                    <p>Fly</p>
+                    <img
+                         src="http://pngimg.com/uploads/fly/fly_PNG3946.png"
+                         alt="fly"
+                         />
+                </button>
+            </li>
+        </ul>
+    </div>
+    <div class="screen game_container">
+        <h3 id="time">Time: 00:00</h3>
+        <h3 id="score">Score: 0</h3>
+        <h5 id="annoying_message">
+            Are your annoyed yet?: :D<br>
+            You are playing: <br>
+            The Impossible Game! <br>
+        </h5>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background Pattern Generator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Montserrat&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="settings">
+        <h2>Settings</h2>
+        <div class="radius">
+            <p>Radius:</p>
+            <label for="one">1</label><input type="checkbox" id="one" name="radius" checked>
+            <label for="two">2</label><input type="checkbox" id="two" name="radius">
+            <label for="three">3</label><input type="checkbox" id="three" name="radius">
+            <label for="four">4</label><input type="checkbox" id="four" name="radius">
+        </div>
+        <p>Items:</p>
+        <input type="number" name="items" id="items" value="15" aria-label="Items">
+        <p>Colors:</p>
+        <select name="colors" id="colors" aria-label="Colors">
+            <option value="oceanic">Oceanic</option>
+            <option value="sunset">Sunset Hues</option>
+            <option value="royal">Royal Amethyst</option>
+            <option value="golden">Golden Twilight</option>
+            <option value="enchanted">Enchanted Forest</option>
+            <option value="mysterious">Mysterious Cosmos</option>
+        </select>
+    </div>
+    <div id="container"></div>
+    <script src="script.js"></script>
+</body>
+</html>

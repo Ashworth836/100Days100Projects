@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body {
+    font-family: 'Big Shoulders Display', cursive;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #121212;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.instructions {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #080808;
+    border-radius: 5px;
+    text-align: center;
+    color: #fefefe;
+    font-size: 18px;
+    padding: 20px;
+    z-index: 10;
+}
+
+.instructions button {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fefefe;
+    border-radius: 5px;
+    padding: 12px 20px;
+    color: #121212;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.instructions button:hover {
+    background-color: #080808;
+    color: #fefefe;
+}
+
+#score {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #080808;
+    font-size: 24px;
+    z-index: 10;
+    margin: 0;
+}

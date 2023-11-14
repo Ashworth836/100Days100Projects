@@ -12,7 +12,7 @@ A journey through diverse web development projects, all crafted during the "100 
 | 4   | Catch the Insect                           | [Code](catch-the-insect) | [Demo](https://codepen.io/Ashworth836/pen/abXBmEZ)         | August 4, 2023            |
 | 5   | User Profile Design                        | [Code](user-profile-design) | [Demo](https://codepen.io/Ashworth836/pen/oNmYzEw)         | August 5, 2023            |
 | 6   | Pokedex                                    | [Code](pokedex) | [Demo](https://codepen.io/Ashworth836/pen/KKJNgoj)         | August 6, 2023            |
-| 7   | James Bond Tribute Page                    | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/ExrNgLy)         | August 7, 2023            |
+| 7   | James Bond Tribute Page                    | [Code](live-twitter-feed) | [Demo](https://codepen.io/Ashworth836/pen/ExrNgLy)         | August 7, 2023            |
 | 8   | Live Twitter Feed                          | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/gOqLzgo)         | August 8, 2023            |
 | 9   | This or That                               | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/bGzBMWj)         | August 9, 2023            |
 | 10  | Math Wizz Game                             | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/ExrNLvV)         | August 10, 2023           |

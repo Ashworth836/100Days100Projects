@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 140%;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9');
+  background-position: center center;
+  background-size: cover;
+}
+
+h4 {
+  margin: 0 0 5px;
+}
+
+progress {
+  width: 100%;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.container {
+  width: 650px;
+  max-width: 100%;
+  text-align: center;
+  box-shadow: 0 4px 15px -5px rgba(0, 0, 0, 0.7);
+  background-color: #fefefe;
+  border: 1px solid #121212;
+  padding: 30px;
+}
+
+.container .text {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container input{
+  width: 100%;
+  margin: 10px 0;
+  font-size: 20px;
+  padding: 12px 15px;
+}
+
+.start-btn {
+  border: 0;
+  font-size: 16px;
+  color: #fefefe;
+  padding: 12px 15px;
+  border-radius: 4px;
+  background-color: #121212;
+}
+
+.start-btn:hover {
+  color: #121212;
+  border: 1px solid #121212;
+  background-color: #fefefe;
+}
+
+.wpm {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  text-align: right;
+}
+
+
+.green {
+  color: green;
+}
+
+.red {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+.underline {
+  border-bottom: 1px solid #121212;
+}
+
+.word {
+  margin: 2px;
+  font-size: 20px;
+}
+
+.share {
+  color: #38a1f3;
+}

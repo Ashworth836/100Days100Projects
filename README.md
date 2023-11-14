@@ -23,9 +23,9 @@ A journey through diverse web development projects, all crafted during the "100 
 | 15  | Voting App                                 | [Code](voting-app) | [Demo](https://codepen.io/Ashworth836/pen/poGNMeG)         | August 15, 2023           |
 | 16  | Clock                                      | [Code](clock) | [Demo](https://codepen.io/Ashworth836/pen/YzBpmVZ)         | August 16, 2023           |
 | 17  | Testimonial Design                         | [Code](testimonial-design) | [Demo](https://codepen.io/Ashworth836/pen/eYxBqWw)         | August 17, 2023           |
-| 18  | Typing Speed Test                          | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/xxMRvLZ)         | August 18, 2023           |
+| 18  | Typing Speed Test                          | [Code](typing-speed-test) | [Demo](https://codepen.io/Ashworth836/pen/xxMRvLZ)         | August 18, 2023           |
 | 19  | Send Love Button                           | [Code](send-love-button) | [Demo](https://codepen.io/Ashworth836/pen/bGzBXoj)         | August 19, 2023           |
-| 20  | Official Website (100Days100Projects)      | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/mdvONpq)         | August 20, 2023           |
+| 20  | Official Website (100Days100Projects)      | [Code](official-website-100days100projects) | [Demo](https://codepen.io/Ashworth836/pen/mdvONpq)         | August 20, 2023           |
 | 21  | Feedback UI Design                         | [Code](feedback-ul-design) | [Demo](https://codepen.io/Ashworth836/pen/WNPoVdY)         | August 21, 2023           |
 | 22  | Tricky Cookie                              | [Code](link) | [Demo](link)         | August 22, 2023           |
 | 23  | Background Animation                       | [Code](link) | [Demo](link)         | August 23, 2023           |

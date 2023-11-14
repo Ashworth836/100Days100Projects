@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Ubuntu&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Mulish', sans-serif;
+}
+
+a {
+  color: #8c53ff;
+}
+
+header {
+  position: relative;
+  text-align: center;
+  min-height: 100vh;
+  padding: 150px 0;
+  background-image: url('https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80');
+  background-size: cover;
+  background-position: center center;
+}
+
+header .overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fefefe;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+header .overlay h1 {
+  margin: 0;
+}
+
+header .overlay p {
+  margin: 10px 0;
+}
+
+.container {
+  width: 1000px;
+  max-width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.rules li {
+  margin: 5px 0;
+}
+
+.projects-container {
+  flex-wrap: 100%;
+  max-width: 100%;
+}
+
+.project {
+  width: 30%;
+  margin: 1.5%;
+  overflow: hidden;
+  border-radius: 5px;;
+  box-shadow: 0 3px 5px rgba(100, 100, 100, 0.1);
+}
+
+.project img {
+  width: 100%;
+}
+
+.project-info {
+  padding: 10px 15px;
+}
+
+.project-info p {
+  margin: 0 0 10px;
+}
+
+.project-info .btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.project-info a {
+  color: #fefefe;
+  margin: 20px 0 0;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #8c53ff;
+  transition: all 0.2s ease-in;
+  box-shadow: 0 3px 0 rgba(0, 0, 0, 0.3);
+}
+
+.project-info a:hover {
+  transform: scale(0.98);
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  padding: 10px;
+  margin-top: 10px;
+  color: #fefefe;
+  text-align: center;
+  background-color: #8c53ff;
+}
+
+footer a {
+  color: #fefefe;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer .fa-heart {
+  color: red;
+}
+
+@media screen and (max-width: 1000px) {
+  .project {
+    width: 47%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .project {
+    width: 100%;
+    margin: 10px 0;
+  }
+}

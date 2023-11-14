@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Big Shoulders Display', cursive;
+    background: linear-gradient(to bottom, #67DF9B, #20C4AE);
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 3px;
+    background-color: #fefefe;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    margin: 20px 0;
+    text-align: center;
+    text-transform: capitalize;
+}
+p {
+    font-size: 18px;
+}
+
+.items_container {
+    margin: 0 10px;
+}
+
+.item {
+    position: relative;
+    color: #121212;
+    cursor: pointer;
+    margin: 10px 0;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #121212;
+}
+
+.item:hover {
+    color: #ccc;
+}
+
+.item:active {
+    position: relative;
+    color: #ccc;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.item:active::before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 100%;
+    background: linear-gradient(to bottom, #67DF9B, #20C4AE);
+}
+
+.item span, .item small {
+    position: relative;
+    z-index: 1;
+}
+
+.item .process-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 100%;
+    z-index: 0;
+    opacity: 0.2;
+    background-color: #20C4AE;
+    transition: width 0.5s ease-in;
+}
+
+.btn {
+    border: 0;
+    width: 100%;
+    cursor: pointer;
+    font-size: 18px;
+    color: #fefefe;
+    line-height: 20px;
+    padding: 20px 25px;
+    letter-spacing: 0.5px;
+    background: linear-gradient(to bottom, #67DF9B, #20C4AE);
+}
+
+.btn:active {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.btn:focus {
+    outline: none;
+}

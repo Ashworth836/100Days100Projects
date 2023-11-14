@@ -13,20 +13,20 @@ A journey through diverse web development projects, all crafted during the "100 
 | 5   | User Profile Design                        | [Code](user-profile-design) | [Demo](https://codepen.io/Ashworth836/pen/oNmYzEw)         | August 5, 2023            |
 | 6   | Pokedex                                    | [Code](pokedex) | [Demo](https://codepen.io/Ashworth836/pen/KKJNgoj)         | August 6, 2023            |
 | 7   | James Bond Tribute Page                    | [Code](live-twitter-feed) | [Demo](https://codepen.io/Ashworth836/pen/ExrNgLy)         | August 7, 2023            |
-| 8   | Live Twitter Feed                          | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/gOqLzgo)         | August 8, 2023            |
-| 9   | This or That                               | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/bGzBMWj)         | August 9, 2023            |
-| 10  | Math Wizz Game                             | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/ExrNLvV)         | August 10, 2023           |
-| 11  | Push Force Game                            | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/OJdbZOE)         | August 11, 2023           |
-| 12  | Background Pattern Generator               | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/abXBGEN)         | August 12, 2023           |
-| 13  | Password Generator                         | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/ZEwBoxE)         | August 13, 2023           |
-| 14  | Contact Page Design                        | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/vYbyjRW)         | August 14, 2023           |
-| 15  | Voting App                                 | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/poGNMeG)         | August 15, 2023           |
-| 16  | Clock                                      | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/YzBpmVZ)         | August 16, 2023           |
-| 17  | Testimonial Design                         | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/eYxBqWw)         | August 17, 2023           |
+| 8   | Live Twitter Feed                          | [Code](james-bond-tribute-page) | [Demo](https://codepen.io/Ashworth836/pen/gOqLzgo)         | August 8, 2023            |
+| 9   | This or That                               | [Code](this-or-that) | [Demo](https://codepen.io/Ashworth836/pen/bGzBMWj)         | August 9, 2023            |
+| 10  | Math Wizz Game                             | [Code](math-wizz-game) | [Demo](https://codepen.io/Ashworth836/pen/ExrNLvV)         | August 10, 2023           |
+| 11  | Push Force Game                            | [Code](push-force-game) | [Demo](https://codepen.io/Ashworth836/pen/OJdbZOE)         | August 11, 2023           |
+| 12  | Background Pattern Generator               | [Code](background-pattern-generator) | [Demo](https://codepen.io/Ashworth836/pen/abXBGEN)         | August 12, 2023           |
+| 13  | Password Generator                         | [Code](password-generator) | [Demo](https://codepen.io/Ashworth836/pen/ZEwBoxE)         | August 13, 2023           |
+| 14  | Contact Page Design                        | [Code](contact-page-design) | [Demo](https://codepen.io/Ashworth836/pen/vYbyjRW)         | August 14, 2023           |
+| 15  | Voting App                                 | [Code](voting-app) | [Demo](https://codepen.io/Ashworth836/pen/poGNMeG)         | August 15, 2023           |
+| 16  | Clock                                      | [Code](clock) | [Demo](https://codepen.io/Ashworth836/pen/YzBpmVZ)         | August 16, 2023           |
+| 17  | Testimonial Design                         | [Code](testimonial-design) | [Demo](https://codepen.io/Ashworth836/pen/eYxBqWw)         | August 17, 2023           |
 | 18  | Typing Speed Test                          | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/xxMRvLZ)         | August 18, 2023           |
-| 19  | Send Love Button                           | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/bGzBXoj)         | August 19, 2023           |
+| 19  | Send Love Button                           | [Code](send-love-button) | [Demo](https://codepen.io/Ashworth836/pen/bGzBXoj)         | August 19, 2023           |
 | 20  | Official Website (100Days100Projects)      | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/mdvONpq)         | August 20, 2023           |
-| 21  | Feedback UI Design                         | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/WNPoVdY)         | August 21, 2023           |
+| 21  | Feedback UI Design                         | [Code](feedback-ul-design) | [Demo](https://codepen.io/Ashworth836/pen/WNPoVdY)         | August 21, 2023           |
 | 22  | Tricky Cookie                              | [Code](link) | [Demo](link)         | August 22, 2023           |
 | 23  | Background Animation                       | [Code](link) | [Demo](link)         | August 23, 2023           |
 | 24  | Hover Board                                | [Code](link) | [Demo](link)         | August 24, 2023           |

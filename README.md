@@ -27,13 +27,13 @@ A journey through diverse web development projects, all crafted during the "100 
 | 19  | Send Love Button                           | [Code](send-love-button) | [Demo](https://codepen.io/Ashworth836/pen/bGzBXoj)         | August 19, 2023           |
 | 20  | Official Website (100Days100Projects)      | [Code](official-website-100days100projects) | [Demo](https://codepen.io/Ashworth836/pen/mdvONpq)         | August 20, 2023           |
 | 21  | Feedback UI Design                         | [Code](feedback-ul-design) | [Demo](https://codepen.io/Ashworth836/pen/WNPoVdY)         | August 21, 2023           |
-| 22  | Tricky Cookie                              | [Code](link) | [Demo](link)         | August 22, 2023           |
-| 23  | Background Animation                       | [Code](link) | [Demo](link)         | August 23, 2023           |
-| 24  | Hover Board                                | [Code](link) | [Demo](link)         | August 24, 2023           |
-| 25  | Reviews Design                             | [Code](link) | [Demo](link)         | August 25, 2023           |
-| 26  | Gravity Switch                             | [Code](link) | [Demo](link)         | August 26, 2023           |
-| 27  | Line Through Effect                        | [Code](link) | [Demo](link)         | August 27, 2023           |
-| 28  | Workout Tracker Design                     | [Code](link) | [Demo](link)         | August 28, 2023           |
+| 22  | Tricky Cookie                              | [Code](tricky-cookie) | [Demo](https://codepen.io/Ashworth836/pen/xxMgpWw)         | August 22, 2023           |
+| 23  | Background Animation                       | [Code](background-animation) | [Demo](https://codepen.io/Ashworth836/pen/XWOpVYW)         | August 23, 2023           |
+| 24  | Hover Board                                | [Code](hover-board) | [Demo](https://codepen.io/Ashworth836/pen/QWYdaxJ)         | August 24, 2023           |
+| 25  | Reviews Design                             | [Code](reviews-design) | [Demo](https://codepen.io/Ashworth836/pen/wvNgpxX)         | August 25, 2023           |
+| 26  | Gravity Switch                             | [Code](gravity-switch) | [Demo](https://codepen.io/Ashworth836/pen/oNmBpPB)         | August 26, 2023           |
+| 27  | Line Through Effect                        | [Code](line-through-effect) | [Demo](https://codepen.io/Ashworth836/pen/XWOpVyJ)         | August 27, 2023           |
+| 28  | Workout Tracker Design                     | [Code](workout-tracker-design) | [Demo](https://codepen.io/Ashworth836/pen/poGegzL)         | August 28, 2023           |
 | 29  | Event Keycodes                             | [Code](link) | [Demo](link)         | August 29, 2023           |
 | 30  | Animated Navigation                        | [Code](link) | [Demo](link)         | August 30, 2023           |
 | 31  | New Year Countdown                         | [Code](link) | [Demo](link)         | August 31, 2023           |

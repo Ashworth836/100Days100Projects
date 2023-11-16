@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    overflow: hidden;
+    background-color: #666666;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.line {
+    position: absolute;
+    top: 50%;
+    left: -1vw;
+    transform: translateY(-50%,);
+    background-color: #333333;
+    border-radius: 50px;
+    height: 0.6vw;
+    width: 0;
+    z-index: 2;
+    animation: grow 3s linear forwards;
+}
+
+@keyframes grow {
+    to {
+        width: 75vw;
+    }
+}
+
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-weight: bold;
+    font-size: 4vw;
+    width: 100%;
+    z-index: 1;
+    margin: 0;
+    color: #cccccc;
+}
+
+.overlay {
+    z-index: 2;
+}

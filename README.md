@@ -34,13 +34,13 @@ A journey through diverse web development projects, all crafted during the "100 
 | 26  | Gravity Switch                             | [Code](gravity-switch) | [Demo](https://codepen.io/Ashworth836/pen/oNmBpPB)         | August 26, 2023           |
 | 27  | Line Through Effect                        | [Code](line-through-effect) | [Demo](https://codepen.io/Ashworth836/pen/XWOpVyJ)         | August 27, 2023           |
 | 28  | Workout Tracker Design                     | [Code](workout-tracker-design) | [Demo](https://codepen.io/Ashworth836/pen/poGegzL)         | August 28, 2023           |
-| 29  | Event Keycodes                             | [Code](link) | [Demo](link)         | August 29, 2023           |
-| 30  | Animated Navigation                        | [Code](link) | [Demo](link)         | August 30, 2023           |
-| 31  | New Year Countdown                         | [Code](link) | [Demo](link)         | August 31, 2023           |
-| 32  | Text to Life                               | [Code](link) | [Demo](link)         | September 1, 2023         |
-| 33  | Exchange Rate Calculator                   | [Code](link) | [Demo](link)         | September 2, 2023         |
-| 34  | Billionaires Responsive Table              | [Code](link) | [Demo](link)         | September 3, 2023         |
-| 35  | Image Reflection                           | [Code](link) | [Demo](link)         | September 4, 2023         |
+| 29  | Event Keycodes                             | [Code](event-keycodes) | [Demo](https://codepen.io/Ashworth836/pen/jOdBWOY)         | August 29, 2023           |
+| 30  | Animated Navigation                        | [Code](animated-navigation) | [Demo](https://codepen.io/Ashworth836/pen/XWOMXJo)         | August 30, 2023           |
+| 31  | New Year Countdown                         | [Code](new-year-countdown) | [Demo](https://codepen.io/Ashworth836/pen/poGegJV)         | August 31, 2023           |
+| 32  | Text to Life                               | [Code](text-to-life) | [Demo](https://codepen.io/Ashworth836/pen/PoVpZPW)         | September 1, 2023         |
+| 33  | Exchange Rate Calculator                   | [Code](exchange-rate-calculator) | [Demo](https://codepen.io/Ashworth836/pen/JjxWGMo)         | September 2, 2023         |
+| 34  | Billionaires Responsive Table              | [Code](billionaires-responsive-table) | [Demo](https://codepen.io/Ashworth836/pen/oNmZbEx)         | September 3, 2023         |
+| 35  | Image Reflection                           | [Code](image-reflection) | [Demo](https://codepen.io/Ashworth836/pen/WNPprMy)         | September 4, 2023         |
 | 36  | Pricing Design                             | [Code](link) | [Demo](link)         | September 5, 2023         |
 | 37  | Panda Eye Follow                           | [Code](link) | [Demo](link)         | September 6, 2023         |
 | 38  | 3D Background Boxes                        | [Code](link) | [Demo](link)         | September 7, 2023         |

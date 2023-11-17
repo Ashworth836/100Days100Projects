@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    color: #fefefe;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    background-color: #323975;
+}
+
+.countdown_container {
+    display: flex;
+}
+
+.time {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2em;
+    margin: 0 15px;
+}
+
+.time h1 {
+    margin-bottom: 0;
+}
+
+.time small {
+    color: #cccccc;
+}
+
+.fa-snowflake {
+    position: absolute;
+    top: -25px;
+    color: #fefefe;
+    animation: fall linear forwards;
+}
+
+@keyframes fall {
+    to {
+        transform: translateY(105vh);
+    }
+}

@@ -59,11 +59,11 @@ A journey through diverse web development projects, all crafted during the "100 
 | 51  | Side Menu Animation                        | [Code](link) | [Demo](link)         | September 20, 2023        |
 | 52  | YouTube Video                              | [Code](link) | [Demo](link)         | September 21, 2023        |
 | 53  | User Card Design                           | [Code](link) | [Demo](link)         | September 22, 2023        |
-| 54  | Direction Aware Hover Effect               | [Code](link) | [Demo](link)         | September 23, 2023        |
-| 55  | Become a Millionaire                       | [Code](link) | [Demo](link)         | September 24, 2023        |
+| 54  | Rotation Slideshow                         | [Code](link) | [Demo](link)         | September 23, 2023        |
+| 55  | Message Cards Design                       | [Code](link) | [Demo](link)         | September 24, 2023        |
 | 56  | Digital Block Clock                        | [Code](link) | [Demo](link)         | September 25, 2023        |
-| 57  | Car Avoidance Game                         | [Code](link) | [Demo](link)         | September 26, 2023        |
-| 58  | Blobby                                     | [Code](link) | [Demo](link)         | September 27, 2023        |
+| 57  | Become a Millionaire                       | [Code](link) | [Demo](link)         | September 26, 2023        |
+| 58  | Car Avoidance Game                         | [Code](link) | [Demo](link)         | September 27, 2023        |
 | 59  | Direction Aware Hover Effect               | [Code](link) | [Demo](link)         | September 28, 2023        |
 | 60  | Mobile Tab Navigation                      | [Code](link) | [Demo](link)         | September 29, 2023        |
 | 61  | Live User Filter                           | [Code](link) | [Demo](link)         | September 30, 2023        |

@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Text&family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ecf0f1;
+    font-family: 'Lato', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.card {
+    width: 350px;
+    max-width: 350px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+    height: 200px;
+}
+
+.animated-bg {
+    background-image: linear-gradient(to right, #f6f7f8 0%, #edeef1 10%, #f6f7f8 20%, #f6f7f8 100%);;
+    background-size: 200% 100%;
+    animation: bgPos 1s linear infinite;
+}
+
+.animated-bg-text {
+    display: inline-block;
+    border-radius: 50px;
+    height: 10px;
+    width: 100%;
+    margin: 0;
+}
+
+@keyframes bgPos {
+    0% {
+        background-position: 50% 0;
+    }
+    100% {
+        background-position: -150% 0;
+    }
+}
+
+.card-header img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: none;
+}
+
+.card-content {
+    padding: 30px;
+    background-color: #fefefe;
+}
+
+.card-title {
+    margin: 0;
+    height: 20px;
+}
+
+.card-excerpt {
+    color: #777;
+    margin: 10px 0 20px;
+}
+
+.author {
+    display: flex;
+}
+
+.profile-img {
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.profile-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.author-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 10px;
+    width: 100%;
+}
+
+.author-info small {
+    color: #aaa;
+    margin-top: 5px;
+}

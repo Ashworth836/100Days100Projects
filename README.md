@@ -48,13 +48,13 @@ A journey through diverse web development projects, all crafted during the "100 
 | 40  | Find It                                    | [Code](find-it) | [Demo](https://codepen.io/Ashworth836/pen/rNPyojQ)         | September 9, 2023         |
 | 41  | The Different Chat                         | [Code](the-different-chat) | [Demo](https://codepen.io/Ashworth836/pen/KKJWbWo)         | September 10, 2023        |
 | 42  | Verify Account UI                          | [Code](verify-account-ui) | [Demo](https://codepen.io/Ashworth836/pen/XWOMoRO)         | September 11, 2023        |
-| 43  | Rotated Nav Animation                      | [Code](link) | [Demo](link)         | September 12, 2023        |
-| 44  | Particles                                  | [Code](link) | [Demo](link)         | September 13, 2023        |
-| 45  | Loading Animation                          | [Code](link) | [Demo](link)         | September 14, 2023        |
-| 46  | Image Password Strength                    | [Code](link) | [Demo](link)         | September 15, 2023        |
-| 47  | Expanding Cards                            | [Code](link) | [Demo](link)         | September 16, 2023        |
-| 48  | Content Placeholder                        | [Code](link) | [Demo](link)         | September 17, 2023        |
-| 49  | Theme Toggler                              | [Code](link) | [Demo](link)         | September 18, 2023        |
+| 43  | Rotated Nav Animation                      | [Code](rotated-nav-animation) | [Demo](https://codepen.io/Ashworth836/pen/XWOzjzR)         | September 12, 2023        |
+| 44  | Particles                                  | [Code](particles) | [Demo](https://codepen.io/Ashworth836/pen/rNPYMKm)         | September 13, 2023        |
+| 45  | Loading Animation                          | [Code](loading-animation) | [Demo](https://codepen.io/Ashworth836/pen/gOqXwdJ)         | September 14, 2023        |
+| 46  | Image Password Strength                    | [Code](image-password-strength) | [Demo](https://codepen.io/Ashworth836/pen/MWLOjZp)         | September 15, 2023        |
+| 47  | Expanding Cards                            | [Code](expanding-cards) | [Demo](https://codepen.io/Ashworth836/pen/BaMmLMa)         | September 16, 2023        |
+| 48  | Content Placeholder                        | [Code](content-placeholder) | [Demo](https://codepen.io/Ashworth836/pen/BaMmLba)         | September 17, 2023        |
+| 49  | Theme Toggler                              | [Code](theme-toggler) | [Demo](https://codepen.io/Ashworth836/pen/dyaZprQ)         | September 18, 2023        |
 | 50  | Infinite Scrolling                         | [Code](link) | [Demo](link)         | September 19, 2023        |
 | 51  | Side Menu Animation                        | [Code](link) | [Demo](link)         | September 20, 2023        |
 | 52  | YouTube Video                              | [Code](link) | [Demo](link)         | September 21, 2023        |

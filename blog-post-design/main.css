@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Text&family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #cccccc;
+    font-family: 'Bebas Neue', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.blog_container{
+    display: flex;
+    height: 80vh;
+    width: 80vw;
+    max-width: 800px;
+    margin: 10px 0;
+    background-color: #fafafa;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.blog_header {
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+    color: #fefefe;
+    background-color: #494856;
+}
+
+.blog_header h1 {
+    position: relative;
+    font-weight: normal;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+.blog_header h1::after {
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    content: "";
+    width: 50px;
+    height: 4px;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+}
+
+.author img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 10px;
+    border-radius: 50%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+}
+
+.blog_content {
+    position: relative;
+    flex: 3;
+    background-color: #fafafa;
+    padding: 30px 30px 50px;
+}
+
+.blog_text {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.blog_text::first-letter {
+    font-size: 250%;
+    font-weight: bold;
+}
+
+.blog_text p {
+    color: #494856;
+    line-height: 28px;
+    margin: 0 0 20px;
+}
+
+.blog_info {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 -3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.blog_info button {
+	border: 0;
+	color: red;
+	font-size: 16px;
+	background-color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    .blog_container {
+        flex-direction: column;
+        margin-bottom: 50px;
+        height: auto;
+    }
+    .blog_header, .blog_content {
+        flex: auto;
+    }
+}

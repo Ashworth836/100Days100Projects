@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Text&family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #fafafa;
+    font-family: 'Lato', sans-serif;
+}
+
+.popup-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.popup {
+    padding: 25px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #cccccc;
+}
+
+.popup p {
+    margin: 5px 0;
+}
+
+.popup button {
+    border: none;
+    color: #fafafa;
+    margin-top: 15px;
+    padding: 12px 15px;
+    border-radius: 4px;
+    background-color: #121212;
+}
+
+.popup button:hover {
+    color: #121212;
+    border: 1px solid #121212;
+    background-color: #fafafa;
+}
+
+.messages {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 50px 0 50px;
+    margin: 0;
+}
+
+.messages li {
+    color: #fafafa;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 4px;
+    align-items: flex-start;
+    background-color: #4e85f3;
+}
+
+.send-form {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+}
+
+.send-form input {
+    padding: 12px;
+    font-size: 16px;
+    line-height: 16px;
+    width: calc(100% - 100px);
+    border: 1px solid #cccccc;
+}
+
+.send-form button {
+    width: 100px;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    color: #fafafa;
+    background-color: #4e85f3;
+}

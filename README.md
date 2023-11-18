@@ -41,13 +41,13 @@ A journey through diverse web development projects, all crafted during the "100 
 | 33  | Exchange Rate Calculator                   | [Code](exchange-rate-calculator) | [Demo](https://codepen.io/Ashworth836/pen/JjxWGMo)         | September 2, 2023         |
 | 34  | Billionaires Responsive Table              | [Code](billionaires-responsive-table) | [Demo](https://codepen.io/Ashworth836/pen/oNmZbEx)         | September 3, 2023         |
 | 35  | Image Reflection                           | [Code](image-reflection) | [Demo](https://codepen.io/Ashworth836/pen/WNPprMy)         | September 4, 2023         |
-| 36  | Pricing Design                             | [Code](link) | [Demo](link)         | September 5, 2023         |
-| 37  | Panda Eye Follow                           | [Code](link) | [Demo](link)         | September 6, 2023         |
-| 38  | 3D Background Boxes                        | [Code](link) | [Demo](link)         | September 7, 2023         |
-| 39  | Blog Post Design                           | [Code](link) | [Demo](link)         | September 8, 2023         |
-| 40  | Find It                                    | [Code](link) | [Demo](link)         | September 9, 2023         |
-| 41  | The Different Chat                         | [Code](link) | [Demo](link)         | September 10, 2023        |
-| 42  | Verify Account UI                          | [Code](link) | [Demo](link)         | September 11, 2023        |
+| 36  | Pricing Design                             | [Code](pricing-design) | [Demo](https://codepen.io/Ashworth836/pen/gOqmZrM)         | September 5, 2023         |
+| 37  | Panda Eye Follow                           | [Code](panda-eye-follow) | [Demo](https://codepen.io/Ashworth836/pen/xxMqmOe)         | September 6, 2023         |
+| 38  | 3D Background Boxes                        | [Code](3d-background-boxes) | [Demo](https://codepen.io/Ashworth836/pen/oNmZJYv)         | September 7, 2023         |
+| 39  | Blog Post Design                           | [Code](blog-post-design) | [Demo](https://codepen.io/Ashworth836/pen/yLZMGVj)         | September 8, 2023         |
+| 40  | Find It                                    | [Code](find-it) | [Demo](https://codepen.io/Ashworth836/pen/rNPyojQ)         | September 9, 2023         |
+| 41  | The Different Chat                         | [Code](the-different-chat) | [Demo](https://codepen.io/Ashworth836/pen/KKJWbWo)         | September 10, 2023        |
+| 42  | Verify Account UI                          | [Code](verify-account-ui) | [Demo](https://codepen.io/Ashworth836/pen/XWOMoRO)         | September 11, 2023        |
 | 43  | Rotated Nav Animation                      | [Code](link) | [Demo](link)         | September 12, 2023        |
 | 44  | Particles                                  | [Code](link) | [Demo](link)         | September 13, 2023        |
 | 45  | Loading Animation                          | [Code](link) | [Demo](link)         | September 14, 2023        |

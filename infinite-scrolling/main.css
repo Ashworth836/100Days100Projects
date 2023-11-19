@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Text&family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    color: #fefefe;
+    min-height: 100vh;
+    padding-bottom: 100px;
+    background-color: #353b48;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.post {
+    display: flex;
+    width: 80vw;
+    max-width: 800px;
+    padding: 20px;
+    margin: 40px 0;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.post-title {
+    margin: 0;
+}
+
+.post-date {
+    color: #aeaeae;
+}
+
+.post-excerpt {
+    margin: 15px 0 0;
+    line-height: 1.2;
+    text-align: justify;
+}
+
+.post-info {
+    padding-left: 20px;
+}
+
+.loading {
+    position: fixed;
+    bottom: 50px;
+    display: flex;
+    opacity: 0;
+    transform: opacity .3s ease-in;
+}
+
+.loading.show {
+    opacity: 1;
+}
+
+.ball {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: #fefefe;
+    animation: jump 0.5 ease-in infinite;
+}
+
+.ball:nth-of-type(2) {
+    animation-delay: .1s;
+}
+
+.ball:nth-of-type(3) {
+    animation-delay: .2s;
+}
+
+@keyframes jump {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .post {
+        flex-direction: column;
+    }
+    .post-info {
+        margin-left: 0;
+    }
+    .post-title {
+        margin-top: 20px;
+    }
+}

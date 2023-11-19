@@ -55,13 +55,13 @@ A journey through diverse web development projects, all crafted during the "100 
 | 47  | Expanding Cards                            | [Code](expanding-cards) | [Demo](https://codepen.io/Ashworth836/pen/BaMmLMa)         | September 16, 2023        |
 | 48  | Content Placeholder                        | [Code](content-placeholder) | [Demo](https://codepen.io/Ashworth836/pen/BaMmLba)         | September 17, 2023        |
 | 49  | Theme Toggler                              | [Code](theme-toggler) | [Demo](https://codepen.io/Ashworth836/pen/dyaZprQ)         | September 18, 2023        |
-| 50  | Infinite Scrolling                         | [Code](link) | [Demo](link)         | September 19, 2023        |
-| 51  | Side Menu Animation                        | [Code](link) | [Demo](link)         | September 20, 2023        |
-| 52  | YouTube Video                              | [Code](link) | [Demo](link)         | September 21, 2023        |
-| 53  | User Card Design                           | [Code](link) | [Demo](link)         | September 22, 2023        |
-| 54  | Rotation Slideshow                         | [Code](link) | [Demo](link)         | September 23, 2023        |
-| 55  | Message Cards Design                       | [Code](link) | [Demo](link)         | September 24, 2023        |
-| 56  | Digital Block Clock                        | [Code](link) | [Demo](link)         | September 25, 2023        |
+| 50  | Infinite Scrolling                         | [Code](infinite-scrolling) | [Demo](https://codepen.io/Ashworth836/pen/zYePKXp)         | September 19, 2023        |
+| 51  | Side Menu Animation                        | [Code](side-menu-animation) | [Demo](https://codepen.io/Ashworth836/pen/abXVmrY)         | September 20, 2023        |
+| 52  | YouTube Video                              | [Code](youtube-video) | [Demo](https://codepen.io/Ashworth836/pen/BaMmLXN)         | September 21, 2023        |
+| 53  | User Card Design                           | [Code](user-card-design) | [Demo](https://codepen.io/Ashworth836/pen/RwvjGXm)         | September 22, 2023        |
+| 54  | Rotation Slideshow                         | [Code](rotation-slideshow) | [Demo](https://codepen.io/Ashworth836/pen/qBgVqWM)         | September 23, 2023        |
+| 55  | Message Cards Design                       | [Code](message-cards-design) | [Demo](https://codepen.io/Ashworth836/pen/LYqObYX)         | September 24, 2023        |
+| 56  | Digital Block Clock                        | [Code](digital-block-clock) | [Demo](https://codepen.io/Ashworth836/pen/jOdYOdX)         | September 25, 2023        |
 | 57  | Become a Millionaire                       | [Code](link) | [Demo](link)         | September 26, 2023        |
 | 58  | Car Avoidance Game                         | [Code](link) | [Demo](link)         | September 27, 2023        |
 | 59  | Direction Aware Hover Effect               | [Code](link) | [Demo](link)         | September 28, 2023        |

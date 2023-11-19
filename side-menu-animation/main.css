@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Text&family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    overflow-x: hidden;
+    perspective: 1000px;
+    background-color: #ecf0f1;
+    font-family: 'Lato', sans-serif;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    z-index: 100;
+    color: #fefefe;
+    padding: 10px 30px;
+    background-color: #edeef1;
+    transform: translateX(-200px);
+    transition: transform .3s ease-in-out;
+}
+
+.sidebar.active {
+    transform: translateX(0);
+}
+
+.sidebar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar ul li {
+    margin: 20px 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.sidebar ul li a {
+    color: #121212;
+    text-decoration: none;
+}
+
+.sidebar ul li a:hover {
+    text-decoration: underline;
+}
+
+.sidebar .menu .fa-bars {
+    display: block;
+}
+
+.sidebar .menu .fa-times {
+    display: none;
+}
+
+.sidebar.active .menu .fa-bars {
+    display: none;
+}
+
+.sidebar.active .menu .fa-times {
+    display: block;
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    right: -45px;
+    height: 45px;
+    width: 45px;
+    border: none;
+    font-size: 16px;
+    color: #fefefe;
+    background-color: #121212;
+    border-bottom-right-radius: 10px;
+}
+
+.menu:focus {
+    outline: none;
+}
+
+.content {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 50px;
+    background-color: #f7f1e3;
+    border: 1px solid #fefefe;
+    transform-origin: center left;
+    transition: transform .3s ease-in-out;
+}
+
+.content img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.content.active {
+    transform: translateX(200px) rotateY(20deg);
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 800px;
+}

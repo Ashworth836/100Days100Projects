@@ -62,20 +62,20 @@ A journey through diverse web development projects, all crafted during the "100 
 | 54  | Rotation Slideshow                         | [Code](rotation-slideshow) | [Demo](https://codepen.io/Ashworth836/pen/qBgVqWM)         | September 23, 2023        |
 | 55  | Message Cards Design                       | [Code](message-cards-design) | [Demo](https://codepen.io/Ashworth836/pen/LYqObYX)         | September 24, 2023        |
 | 56  | Digital Block Clock                        | [Code](digital-block-clock) | [Demo](https://codepen.io/Ashworth836/pen/jOdYOdX)         | September 25, 2023        |
-| 57  | Become a Millionaire                       | [Code](link) | [Demo](link)         | September 26, 2023        |
-| 58  | Car Avoidance Game                         | [Code](link) | [Demo](link)         | September 27, 2023        |
-| 59  | Direction Aware Hover Effect               | [Code](link) | [Demo](link)         | September 28, 2023        |
-| 60  | Mobile Tab Navigation                      | [Code](link) | [Demo](link)         | September 29, 2023        |
-| 61  | Live User Filter                           | [Code](link) | [Demo](link)         | September 30, 2023        |
-| 62  | Blobby                                     | [Code](link) | [Demo](link)         | October 1, 2023           |
-| 63  | Blog Post Design                           | [Code](link) | [Demo](link)         | October 2, 2023           |
-| 64  | Hidden Search                              | [Code](link) | [Demo](link)         | October 3, 2023           |
-| 65  | Memoji                                     | [Code](link) | [Demo](link)         | October 4, 2023           |
-| 66  | Moving Hamburger Animation                 | [Code](link) | [Demo](link)         | October 5, 2023           |
-| 67  | Landing Page Header                        | [Code](link) | [Demo](link)         | October 6, 2023           |
-| 68  | Newsletter Design                          | [Code](link) | [Demo](link)         | October 7, 2023           |
-| 69  | Dad Jokes                                  | [Code](link) | [Demo](link)         | October 8, 2023           |
-| 70  | Kinetic Loader                             | [Code](link) | [Demo](link)         | October 9, 2023           |
+| 57  | Become a Millionaire                       | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/GRzygKQ)         | September 26, 2023        |
+| 58  | Car Avoidance Game                         | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/jOdYEOR)         | September 27, 2023        |
+| 59  | Direction Aware Hover Effect               | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/KKJZwwL)         | September 28, 2023        |
+| 60  | Mobile Tab Navigation                      | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/mdvpyex)         | September 29, 2023        |
+| 61  | Live User Filter                           | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/ExrQQRQ)         | September 30, 2023        |
+| 62  | Blobby                                     | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/YzBeevB)         | October 1, 2023           |
+| 63  | Blog Post Design                           | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/wvNyyxa)         | October 2, 2023           |
+| 64  | Hidden Search                              | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/ZEwrrjy)         | October 3, 2023           |
+| 65  | Memoji                                     | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/GRzQQBb)         | October 4, 2023           |
+| 66  | Moving Hamburger Animation                 | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/xxMYYaz)         | October 5, 2023           |
+| 67  | Landing Page Header                        | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/MWLQQPo)         | October 6, 2023           |
+| 68  | Newsletter Design                          | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/jOdZZQV)         | October 7, 2023           |
+| 69  | Dad Jokes                                  | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/zYeRRMR)         | October 8, 2023           |
+| 70  | Kinetic Loader                             | [Code](link) | [Demo](https://codepen.io/Ashworth836/pen/RwvQQqm)         | October 9, 2023           |
 | 71  | Donate Design                              | [Code](link) | [Demo](link)         | October 10, 2023          |
 | 72  | Instagram Image Feed                       | [Code](link) | [Demo](link)         | October 11, 2023          |
 | 73  | Form Validation                            | [Code](link) | [Demo](link)         | October 12, 2023          |

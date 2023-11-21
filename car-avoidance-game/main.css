@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ecf0f1;
+    font-family: 'Teko', sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-size: 42px;
+    font-weight: normal;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: normal;
+    margin: 10px 0 20px;
+    text-transform: capitalize;
+}
+
+h2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+p {
+    margin: 15px;
+    font-size: 18px;
+}
+
+canvas {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+}
+
+.modal-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    padding: 20px 50px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #fefefe;
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.8);
+}
+
+.modal-content button {
+    border: none;
+    color: #fefefe;
+    padding: 10px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: #121212;
+}
+
+.modal-content button:hover {
+    color: #121212;
+    border: 1px solid #121212;
+    background-color: #fefefe;
+}

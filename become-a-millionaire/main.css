@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Teko', sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+.screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #ecf0f1;
+}
+
+.button-3d {
+    position: relative;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-weight: 700;
+    color: #fefefe;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #121212;
+    border: 2px solid #121212;
+    box-shadow: 0 6px #302c2c, 0 8px rgba(7, 7, 7, 0.7);
+    transition: transform .2s linear, box-shadow .2s linear;
+}
+
+.button-3d:active {
+    transform: translateY(8px);
+    box-shadow: 0 6px #121212, 0 8px rgba(0, 0, 0, 0.7);
+}
+
+.button-3d:focus {
+    outline: none;
+}
+
+.score {
+    color: #6ab04c;
+    font-weight: bold;
+}
+
+.fa-money-bill-wave {
+    margin: 2px;
+    color: #6ab04c;
+}
+
+.hide {
+    opacity: 0;
+}
+
+.congrats {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5rem;
+    color: #ecf0f1;
+    margin: 0;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7);
+}

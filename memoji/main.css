@@ -1,0 +1,49 @@
+/* main.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.memoji {
+    width: 200px;
+}
+
+.title {
+    margin: 0 0 5px;
+    font-size: 36px;
+    letter-spacing: 2px;
+    color: #2f3542; 
+}
+
+.link {
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #3498db; 
+    margin-top: 10px;
+}
+
+.num {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    opacity: .2;
+    z-index: -1;
+    font-size: 30px;
+    filter: blur(1px);
+}

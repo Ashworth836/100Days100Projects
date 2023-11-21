@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --move: 95%;
+    --move-negative: -95%;
+}
+
+body {
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+h2 {
+    margin: 0;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 4px;
+    background-color: #dfe4ea;
+    border: 1px solid  rgba(0, 0, 0, 0.3);
+}
+
+.inner-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    background-color: #fefefe;
+    transition: transform .3s ease;
+    z-index: 5;
+}
+
+.inner-card:nth-of-type(1) {
+    transform: translateY(var(--move-negative));
+}
+
+.inner-card:nth-of-type(2) {
+    transform: translateX(var(--move));
+}
+
+.inner-card:nth-of-type(3) {
+    transform: translateY(var(--move));
+}
+
+.inner-card:nth-of-type(4) {
+    transform: translateX(var(--move-negative));
+}
+
+.inner-card:hover{
+    transform: translate(0, 0);
+    z-index: 10;
+}

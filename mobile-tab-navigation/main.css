@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #333333;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.phone {
+    position: relative;
+    width: 340px;
+    height: 600px;
+    overflow: hidden;
+    border-radius: 15px;
+    border: 3px solid #121212;
+}
+
+.phone .wallpaper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    cursor: inherit;
+    background-color: #121212;
+}
+
+.phone .wallpaper.hide {
+    transform: translateY(-100%);
+    transition: transform .4s linear;
+}
+
+.phone .wallpaper .screen-lock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fefefe;
+    text-align: center;
+    text-transform: uppercase;
+}
+.phone .wallpaper .screen-lock .time {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    gap: 5px;
+    font-size: 40px;
+}
+
+.phone .wallpaper .screen-lock #date {
+    padding: 5px;
+    font-size: 8px;
+    font-weight: 500;
+    color: #cccccc;
+}
+
+.phone .wallpaper .screen-lock p{
+    font-size: 14px;
+}
+
+.phone .wallpaper .show-lock{
+    padding: 5px;
+}
+
+.phone .wallpaper .bounce-ball {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    background-color: #cccccc;
+    margin-bottom: 15px;
+    text-align: center;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    animation: bounce .4s linear infinite;
+}
+
+@keyframes bounce {
+    0%, 100% {
+        bottom: 0%;
+    }
+    50% {
+        bottom: 4%;
+    }
+}
+
+.phone .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 60px);
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity .4s ease;
+}
+
+.phone .content.show {
+    opacity: 1;
+}
+
+nav {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-top: -5px;
+    width: 100%;
+}
+
+nav ul {
+    display: flex;
+    height: 60px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background-color: #cccccc;
+}
+
+nav ul li {
+    flex: 1;
+    color: #aaa8a8;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+nav ul li:hover, nav ul li.active {
+    color: #333333;
+}
+
+nav ul li p {
+    font-size: 12px;
+    margin: 2px 0;
+}

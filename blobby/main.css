@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Alata&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --br-blobby: 50%;
+    --br-blobby-before: 50%;
+    --br-blobby-after: 50%;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4c5b7;
+    font-family: 'Alata', sans-serif;
+}
+
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    color: #fefefe;
+    z-index: 100;
+}
+
+
+.box {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    transition: .3s linear;
+    background-color: darksalmon;
+    border-radius: var(--br-blobby);
+    animation: rotate 5s linear infinite;
+}
+
+.box::after {
+    content: "";
+    position: absolute;
+    top: -2%;
+    left: -2%;
+    width: 104%;
+    height: 104%;
+    opacity: 0.5;
+    transition: .3s linear;
+    background-color: darksalmon;
+    border-radius: var(--br-blobby-after);
+}
+
+.box::before {
+    content: "";
+    position: absolute;
+    top: -4%;
+    left: -4%;
+    width: 108%;
+    height: 108%;
+    opacity: 0.5;
+    transition: .3s linear;
+    background-color: darksalmon;
+    border-radius: var(--br-blobby-before);
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

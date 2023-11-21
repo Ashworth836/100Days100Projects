@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ecf0f1;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 300px;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.header {
+    color: #fefefe;
+    padding: 30px 20px;
+    background-color: #333333;
+}
+
+.title {
+    margin: 0;
+    font-size: 18px;
+}
+
+.subtitle {
+    display: inline-block;
+    margin: 5px 0 20px;
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+.header input {
+    border: 0;
+    width: 100%;
+    color: #f1f1f1;
+    font-size: 14px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.users-list {
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+    list-style: none;
+    max-height: 400px;
+    background-color: #fefefe;
+}
+
+.users-list li {
+    display: flex;
+    padding: 20px;
+}
+
+.users-list li:not(:last-of-type) {
+    border-bottom: 1px solid #ecf0f1;
+}
+
+.users-list li.hide {
+    display: none;
+}
+
+.users-list li img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.user-info {
+    margin-left: 10px;
+}
+
+.user-info h4 {
+    margin: 0 0 10px;
+}
+
+.user-info p {
+    font-size: 12px;
+}

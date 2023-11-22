@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube Video Suggestions ui</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Youtube Video Suggestions</h1>
+        <textarea name="textarea" id="textarea" placeholder="Enter Your Suggestion Here..."></textarea>
+    </div>
+    <div class="container">
+        <strong class="count-container">
+            <span id="suggestions_count">2</span> suggestions
+        </strong>
+        <div class="suggestions-container" id="suggestions_container">
+            <div class="suggestion">
+                <div class="left">
+                    <button class="vote-btn">
+                        <i class="fas fa-chevron-up"></i>
+                    </button>
+                    <p>
+                        <span class="votes">0</span>
+                        votes
+                    </p>
+                </div>
+                <div class="right">
+                    <strong>Create a ReactJS Voting App</strong>
+                </div>
+            </div>
+            <div class="suggestion">
+                <div class="left">
+                    <button class="vote-btn">
+                        <i class="fas fa-chevron-up"></i>
+                    </button>
+                    <p>
+                        <span class="votes">0</span>
+                        votes
+                    </p>
+                </div>
+                <div class="right">
+                    <strong>CSS Loading Animations</strong>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

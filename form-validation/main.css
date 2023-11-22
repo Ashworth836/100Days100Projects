@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #fafafa;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 750px;
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: #f2f5f5;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.header {
+    padding: 20px 40px;
+    text-align: center;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 38%;
+    color: #e1dfe9;
+    background-color: #37b9f1;
+}
+
+.col-6 {
+    width: calc(100% - 38%);
+}
+
+.col h1 {
+    font-size: 30px;
+}
+
+.col p {
+    width: 80%;
+    font-size: 11px;
+    padding: 10px 20px;
+}
+
+.form {
+    width: 98%;
+    padding: 30px 40px;
+}
+
+.form-floating {
+    position: relative;
+    margin-bottom: 15px;
+    padding-bottom: 25px;
+}
+
+.form-floating input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    font-family: inherit;
+}
+
+.form-floating input:focus {
+    outline: 0;
+    border-color: #777;
+}
+
+.form-floating.success input {
+    border-color: #2ecc71;
+}
+
+.form-floating.error input {
+    border-color: #e74c3c;
+}
+
+.form-floating i {
+    position: absolute;
+    top: 60px;
+    right: 0;
+    visibility: hidden;
+}
+
+.form-floating.success i.fa-check-circle {
+	color: #2ecc71;
+	visibility: visible;
+}
+
+.form-floating.error i.fa-exclamation-circle {
+	color: #e74c3c;
+	visibility: visible;
+}
+
+.form-floating small {
+    position: absolute;
+    top: 56px;
+    left: 0;
+    color: #e74c3c;
+    visibility: hidden;
+}
+
+.form-floating.error small {
+	visibility: visible;
+}
+
+.btn {
+    color: #f2f5f5;
+    padding: 10px 50px;
+    border-radius: 50px;
+    border: 1px solid #f2f5f5;
+    text-transform: uppercase;
+}
+
+.btn:focus, .btn:active{
+    outline: 0;
+}
+
+.btn.sign_up {
+    background-color: #37b9f1;
+}

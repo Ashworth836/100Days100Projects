@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    color: #121212;
+    background-color: #e0e0e0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    margin: 10px 0 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+a {
+    color: #fefefe;
+}
+
+canvas {
+    cursor: pointer;
+    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}

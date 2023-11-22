@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cormorant+Garamond&family=Lato&family=Montserrat&family=Roboto&family=Teko&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #c0e2da;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    position: relative;
+    padding: 40px 60px;
+    border-radius: 20px;
+    background-color: #fefefe;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, .1);
+}
+
+.container::before {
+    content: "";
+    position: absolute;
+    right: -30px;
+    bottom: -30px;
+    height: 220px;
+    width: 220px;
+    opacity: 0.9;
+    z-index: -1;
+    border-radius: 30px;
+    background-color: #ff4757;
+}
+
+.container h2 {
+    margin: 0;
+}
+
+.container p {
+    line-height: 24px;
+}
+
+.btn {
+    color: #fefefe;
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-block;
+    text-decoration: none;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05), rgba(0, 0, 0, .1);
+}
+
+.btn.paypal {
+    margin-right: 10px;
+    background-color: #0070ba;
+}
+
+.btn.patreon {
+    background-color: rgb(232, 91, 70);
+}

@@ -76,20 +76,20 @@ A journey through diverse web development projects, all crafted during the "100 
 | 68  | Newsletter Design                          | [Code](newsletter-design) | [Demo](https://codepen.io/Ashworth836/pen/jOdZZQV)         | October 7, 2023           |
 | 69  | Dad Jokes                                  | [Code](dad-jokes) | [Demo](https://codepen.io/Ashworth836/pen/zYeRRMR)         | October 8, 2023           |
 | 70  | Kinetic Loader                             | [Code](kinetic-loader) | [Demo](https://codepen.io/Ashworth836/pen/RwvQQqm)         | October 9, 2023           |
-| 71  | Donate Design                              | [Code](link) | [Demo](link)         | October 10, 2023          |
-| 72  | Instagram Image Feed                       | [Code](link) | [Demo](link)         | October 11, 2023          |
-| 73  | Form Validation                            | [Code](link) | [Demo](link)         | October 12, 2023          |
-| 74  | Background Changer                         | [Code](link) | [Demo](link)         | October 13, 2023          |
-| 75  | Auto Text                                  | [Code](link) | [Demo](link)         | October 14, 2023          |
-| 76  | Clip Path Animation                        | [Code](link) | [Demo](link)         | October 15, 2023          |
-| 77  | Social Links                               | [Code](link) | [Demo](link)         | October 16, 2023          |
-| 78  | Color Matching Game                        | [Code](link) | [Demo](link)         | October 17, 2023          |
-| 79  | Background Slider                          | [Code](link) | [Demo](link)         | October 18, 2023          |
-| 80  | Steps                                      | [Code](link) | [Demo](link)         | October 19, 2023          |
-| 81  | Drink Water                                | [Code](link) | [Demo](link)         | October 20, 2023          |
-| 82  | Random Picker Visualizer                   | [Code](link) | [Demo](link)         | October 21, 2023          |
-| 83  | YouTube Video Suggestions UI               | [Code](link) | [Demo](link)         | October 22, 2023          |
-| 84  | Sparkles                                   | [Code](link) | [Demo](link)         | October 23, 2023          |
+| 71  | Donate Design                              | [Code](donate-design) | [Demo](https://codepen.io/Ashworth836/pen/XWOZZoZ)         | October 10, 2023          |
+| 72  | Instagram Image Feed                       | [Code](instagram-image-feed) | [Demo](https://codepen.io/Ashworth836/pen/PoVQQLw)         | October 11, 2023          |
+| 73  | Form Validation                            | [Code](form-validation) | [Demo](https://codepen.io/Ashworth836/pen/OJdQQGV)         | October 12, 2023          |
+| 74  | Background Changer                         | [Code](background-changer) | [Demo](https://codepen.io/Ashworth836/pen/yLZvvrX)         | October 13, 2023          |
+| 75  | Auto Text                                  | [Code](auto-text) | [Demo](https://codepen.io/Ashworth836/pen/RwvQQOX)         | October 14, 2023          |
+| 76  | Clip Path Animation                        | [Code](clip-path-animation) | [Demo](https://codepen.io/Ashworth836/pen/wvNyybG)         | October 15, 2023          |
+| 77  | Social Links                               | [Code](social-links) | [Demo](https://codepen.io/Ashworth836/pen/zYeRRQj)         | October 16, 2023          |
+| 78  | Color Matching Game                        | [Code](color-matching-game) | [Demo](https://codepen.io/Ashworth836/pen/NWoyyZR)         | October 17, 2023          |
+| 79  | Background Slider                          | [Code](background-slider) | [Demo](https://codepen.io/Ashworth836/pen/qBgxxzQ)         | October 18, 2023          |
+| 80  | Steps                                      | [Code](steps) | [Demo](https://codepen.io/Ashworth836/pen/qBgxxeL)         | October 19, 2023          |
+| 81  | Drink Water                                | [Code](drink-water) | [Demo](https://codepen.io/Ashworth836/pen/KKJQoPq)         | October 20, 2023          |
+| 82  | Random Picker Visualizer                   | [Code](random-picker-visualizer) | [Demo](https://codepen.io/Ashworth836/pen/JjxpLPe)         | October 21, 2023          |
+| 83  | YouTube Video Suggestions UI               | [Code](youtube-video-suggestions-ui) | [Demo](https://codepen.io/Ashworth836/pen/PoVQRoP)         | October 22, 2023          |
+| 84  | Sparkles                                   | [Code](sparkles) | [Demo](https://codepen.io/Ashworth836/pen/MWLQVWO)         | October 23, 2023          |
 | 85  | Breadcrumbs Design                         | [Code](link) | [Demo](link)         | October 24, 2023          |
 | 86  | Traffic Lights                             | [Code](link) | [Demo](link)         | October 25, 2023          |
 | 87  | Invoice Design                             | [Code](link) | [Demo](link)         | October 26, 2023          |

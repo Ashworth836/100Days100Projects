@@ -90,14 +90,14 @@ A journey through diverse web development projects, all crafted during the "100 
 | 82  | Random Picker Visualizer                   | [Code](random-picker-visualizer) | [Demo](https://codepen.io/Ashworth836/pen/JjxpLPe)         | October 21, 2023          |
 | 83  | YouTube Video Suggestions UI               | [Code](youtube-video-suggestions-ui) | [Demo](https://codepen.io/Ashworth836/pen/PoVQRoP)         | October 22, 2023          |
 | 84  | Sparkles                                   | [Code](sparkles) | [Demo](https://codepen.io/Ashworth836/pen/MWLQVWO)         | October 23, 2023          |
-| 85  | Breadcrumbs Design                         | [Code](link) | [Demo](link)         | October 24, 2023          |
-| 86  | Traffic Lights                             | [Code](link) | [Demo](link)         | October 25, 2023          |
-| 87  | Invoice Design                             | [Code](link) | [Demo](link)         | October 26, 2023          |
-| 88  | Blurry Loading                             | [Code](link) | [Demo](link)         | October 27, 2023          |
-| 89  | Rain Drops                                 | [Code](link) | [Demo](link)         | October 28, 2023          |
-| 90  | Tooltip                                    | [Code](link) | [Demo](link)         | October 29, 2023          |
-| 91  | Live Visit Count                           | [Code](link) | [Demo](link)         | October 30, 2023          |
-| 92  | Pulse Effect                               | [Code](link) | [Demo](link)         | October 31, 2023          |
+| 85  | Breadcrumbs Design                         | [Code](breadcrumbs-design) | [Demo](https://codepen.io/Ashworth836/pen/BaMYryK)         | October 24, 2023          |
+| 86  | Traffic Lights                             | [Code](traffic-lights) | [Demo](https://codepen.io/Ashworth836/pen/dyadmPE)         | October 25, 2023          |
+| 87  | Invoice Design                             | [Code](invoice-design) | [Demo](https://codepen.io/Ashworth836/pen/QWYQmbv)         | October 26, 2023          |
+| 88  | Blurry Loading                             | [Code](blurry-loading) | [Demo](https://codepen.io/Ashworth836/pen/ExrQEje)         | October 27, 2023          |
+| 89  | Rain Drops                                 | [Code](rain-drops) | [Demo](https://codepen.io/Ashworth836/pen/RwvQMWw)         | October 28, 2023          |
+| 90  | Tooltip                                    | [Code](tooltip) | [Demo](https://codepen.io/Ashworth836/pen/KKJQodv)         | October 29, 2023          |
+| 91  | Live Visit Count                           | [Code](live-visit-count) | [Demo](https://codepen.io/Ashworth836/pen/ExrQEVe)         | October 30, 2023          |
+| 92  | Pulse Effect                               | [Code](pulse-effect) | [Demo](https://codepen.io/Ashworth836/pen/dyadmYE)         | October 31, 2023          |
 | 93  | Incrementing Counter                       | [Code](link) | [Demo](link)         | November 1, 2023          |
 | 94  | Course Card UI                             | [Code](link) | [Demo](link)         | November 2, 2023          |
 | 95  | 404 Page                                   | [Code](link) | [Demo](link)         | November 3, 2023          |

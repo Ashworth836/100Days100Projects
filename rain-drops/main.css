@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    position: relative;
+    background-color: #30336b;
+}
+
+.circle {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    animation: grow 3s linear;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+@keyframes grow {
+    to {
+        opacity: 0;
+        transform: scale(5);
+    }
+}

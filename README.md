@@ -98,14 +98,14 @@ A journey through diverse web development projects, all crafted during the "100 
 | 90  | Tooltip                                    | [Code](tooltip) | [Demo](https://codepen.io/Ashworth836/pen/KKJQodv)         | October 29, 2023          |
 | 91  | Live Visit Count                           | [Code](live-visit-count) | [Demo](https://codepen.io/Ashworth836/pen/ExrQEVe)         | October 30, 2023          |
 | 92  | Pulse Effect                               | [Code](pulse-effect) | [Demo](https://codepen.io/Ashworth836/pen/dyadmYE)         | October 31, 2023          |
-| 93  | Incrementing Counter                       | [Code](link) | [Demo](link)         | November 1, 2023          |
-| 94  | Course Card UI                             | [Code](link) | [Demo](link)         | November 2, 2023          |
-| 95  | 404 Page                                   | [Code](link) | [Demo](link)         | November 3, 2023          |
-| 96  | Waves                                      | [Code](link) | [Demo](link)         | November 4, 2023          |
-| 97  | Hotel Reservation Design                   | [Code](link) | [Demo](link)         | November 5, 2023          |
-| 98  | FAQ                                        | [Code](link) | [Demo](link)         | November 6, 2023          |
-| 99  | Good Cheap Fast                            | [Code](link) | [Demo](link)         | November 7, 2023          |
-| 100 | Simple Calculator                          | [Code](link) | [Demo](link)         | November 8, 2023          |
+| 93  | Incrementing Counter                       | [Code](incrementing-counter) | [Demo](https://codepen.io/Ashworth836/pen/MWLQVKQ)         | November 1, 2023          |
+| 94  | Course Card UI                             | [Code](course-card-ui) | [Demo](https://codepen.io/Ashworth836/pen/YzBeaqK)         | November 2, 2023          |
+| 95  | 404 Page                                   | [Code](404-page) | [Demo](https://codepen.io/Ashworth836/pen/poGaLyd)         | November 3, 2023          |
+| 96  | Waves                                      | [Code](waves) | [Demo](https://codepen.io/Ashworth836/pen/abXqYNQ)         | November 4, 2023          |
+| 97  | Hotel Reservation Design                   | [Code](hotel-reservation-design) | [Demo](https://codepen.io/Ashworth836/pen/YzBeaWK)         | November 5, 2023          |
+| 98  | FAQ                                        | [Code](faq) | [Demo](https://codepen.io/Ashworth836/pen/jOdZzrL)         | November 6, 2023          |
+| 99  | Good Cheap Fast                            | [Code](good-cheap-fast) | [Demo](https://codepen.io/Ashworth836/pen/zYeRWBJ)         | November 7, 2023          |
+| 100 | Simple Calculator                          | [Code](simple-calculator) | [Demo](https://codepen.io/Ashworth836/pen/GRzQxjp)         | November 8, 2023          |
 
 
 ## About

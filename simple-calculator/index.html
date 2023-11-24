@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="calculator">
+        <input type="text" id="operand1" placeholder="Enter first Number">
+        <input type="text" id="operand2" placeholder="Enter second Number">
+        <div class="btn-group">
+            <button onclick="calculate('add')">+</button>
+            <button onclick="calculate('subtract')">-</button>
+            <button onclick="calculate('multiply')">*</button>
+            <button onclick="calculate('divide')">/</button>
+        </div>
+        <p id="result">
+            Result
+        </p>
+    </div>
+
+    <div class="attribute">
+        Created by <a href="https://github.com/Ashworth836/">Ashworth</a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

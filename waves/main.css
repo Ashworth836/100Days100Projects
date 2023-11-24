@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Ubuntu&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #cfd9df;
+    font-family: 'Mulish', sans-serif;
+}
+
+h3 {
+    opacity: 0.8;
+    color: #333333;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.container {
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle {
+    margin: 8px;
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #666666;
+    transition: transform 0.3s linear;
+}
+
+.circle.grow {
+    transform: scale(2);
+}

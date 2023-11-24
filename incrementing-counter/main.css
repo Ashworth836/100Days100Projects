@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Ubuntu&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    color: #666666;
+    background-color: #cfd9df;
+    font-family: 'Mulish', sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-right: 20px;
+    flex-direction: column;
+}
+
+.counter {
+    font-size: 50px;
+}
+
+span {
+    opacity: 0.8;
+}
